@@ -1,0 +1,75 @@
+[
+    {
+        "_id":"a1",
+        "name":"haddock1",
+        "recipe":"chargrilled fresh tuna1",
+        "image":"https://images.pexels.com/photos/18650061/pexels-photo-18650061/free-photo-of-woman-sitting-and-working-on-laptop.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "categore":"salad1",
+        "price":10
+    },
+    {
+        "_id":"a2",
+        "name":"haddock2",
+        "recipe":"chargrilled fresh tuna2",
+        "image":"https://images.pexels.com/photos/15583987/pexels-photo-15583987/free-photo-of-roof-of-chinese-temple-under-blue-sky.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "categore":"salad2",
+        "price":102
+    },
+    {
+        "_id":"a3",
+        "name":"haddock3",
+        "recipe":"chargrilled fresh tuna3",
+        "image":"https://images.pexels.com/photos/18431185/pexels-photo-18431185/free-photo-of-ornamented-gate-in-old-town.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "categore":"salad3",
+        "price":130
+    },
+    {
+        "_id":"a4",
+        "name":"haddock4",
+        "recipe":"chargrilled fresh tuna4",
+        "image":"https://images.pexels.com/photos/13768940/pexels-photo-13768940.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "categore":"salad4",
+        "price":140
+    },
+    {
+        "_id":"a5",
+        "name":"haddock5",
+        "recipe":"chargrilled fresh tuna5",
+        "image":"https://images.pexels.com/photos/18815907/pexels-photo-18815907/free-photo-of-glenorchy-lagoon-new-zealand.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "categore":"popular",
+        "price":150
+    },
+    {
+        "_id":"a6",
+        "name":"haddock6",
+        "recipe":"chargrilled fresh tuna6",
+        "image":"https://images.pexels.com/photos/18815907/pexels-photo-18815907/free-photo-of-glenorchy-lagoon-new-zealand.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "categore":"popular",
+        "price":160
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
